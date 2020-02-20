@@ -1,2 +1,0 @@
-# farmdiagnosticseurekaclient
-Discovery Client Gateway.
